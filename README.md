@@ -12,7 +12,6 @@ It includes a basic login page and a dashboard where users can create, view, and
 - Add new notes
 - View saved notes
 - Delete notes
-- Clean and minimal UI
 
 ---
 
